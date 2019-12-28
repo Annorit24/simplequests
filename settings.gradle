@@ -1,0 +1,4 @@
+rootProject.name = 'simplequests'
+
+include 'simplequests-api'
+include 'simplequests-core'

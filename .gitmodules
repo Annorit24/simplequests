@@ -1,0 +1,6 @@
+[submodule "simplequests-api"]
+	path = simplequests-api
+	url = git@https://github.com/Annorit24/simplequests-api.git
+[submodule "simplequests-core"]
+	path = simplequests-core
+	url = git@https://github.com/Annorit24/simplequests-core.git
